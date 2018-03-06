@@ -1,0 +1,2 @@
+bot/apriltags_ros/apriltags:bot/apriltags_ros/apriltags_ros
+-DCATKIN_DEVEL_PREFIX=/home/robot/Final_Build/devel -DCMAKE_INSTALL_PREFIX=/home/robot/Final_Build/install -G Unix Makefiles
