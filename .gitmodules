@@ -7,3 +7,6 @@
 [submodule "src/bot/apriltags_ros"]
 	path = src/bot/apriltags_ros
 	url = https://github.com/cosmicog/apriltags_ros
+[submodule "src/bot/state-machine"]
+	path = src/bot/state-machine
+	url = https://github.com/matthewdhanley/state-machine.git
