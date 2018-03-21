@@ -4,3 +4,6 @@
 [submodule "src/host/teleop"]
 	path = src/host/teleop
 	url = https://github.com/matthewdhanley/teleop.git
+[submodule "src/bot/apriltags_ros"]
+	path = src/bot/apriltags_ros
+	url = https://github.com/cosmicog/apriltags_ros
