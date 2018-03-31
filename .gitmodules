@@ -13,3 +13,6 @@
 [submodule "src/bot/robot_actions"]
 	path = src/bot/robot_actions
 	url = https://github.com/matthewdhanley/robot_actions.git
+[submodule "src/bot/usb_cam"]
+	path = src/bot/usb_cam
+	url = https://github.com/matthewdhanley/usb_cam.git
