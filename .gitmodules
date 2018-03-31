@@ -10,3 +10,6 @@
 [submodule "src/bot/state-machine"]
 	path = src/bot/state-machine
 	url = https://github.com/matthewdhanley/state-machine.git
+[submodule "src/bot/robot_actions"]
+	path = src/bot/robot_actions
+	url = https://github.com/matthewdhanley/robot_actions.git
