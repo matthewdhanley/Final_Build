@@ -1,2 +1,0 @@
-
--DCATKIN_DEVEL_PREFIX=/home/bepis/Final_Build/devel -DCMAKE_INSTALL_PREFIX=/home/bepis/Final_Build/install -G Unix Makefiles
