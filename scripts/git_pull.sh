@@ -3,6 +3,7 @@ DIR=$(pwd | grep -o "\w*-*$")
 if [ "$DIR" != "Final_Build" ]; then
     cd ..
 fi
+git submodule --init --recursive
 cd src/
 for d in */; do
   cd $d

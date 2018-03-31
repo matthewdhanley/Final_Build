@@ -1,0 +1,8 @@
+prefix=/home/bepis/Final_Build/devel
+
+Name: robot_actions
+Description: Description of robot_actions
+Version: 0.0.0
+Cflags: -I/home/bepis/Final_Build/devel/include
+Libs: -L/home/bepis/Final_Build/devel/lib 
+Requires: 

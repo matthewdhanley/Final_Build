@@ -1,0 +1,2 @@
+bot/apriltags_ros/apriltags:bot/apriltags_ros/apriltags_ros:bot/robot_actions:bot/usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/bepis/Final_Build/devel -DCMAKE_INSTALL_PREFIX=/home/bepis/Final_Build/install -G Unix Makefiles
