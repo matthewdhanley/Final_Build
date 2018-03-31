@@ -39,8 +39,8 @@ def callback(data):
 
 def start():
     global pub
-    pub = rospy.Publisher('cmd_vel',Twist,queue_size=10)
-    rospy.Subscriber("joy",Joy,callback)
+    pub = rospy.Publisher('cmd_vel', Twist, queue_size=10)
+    rospy.Subscriber("joy", Joy, callback)
     rospy.init_node('teleop')
     print "Teleop Started"
     rospy.spin()
