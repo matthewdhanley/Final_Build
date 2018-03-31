@@ -1,9 +1,6 @@
 [submodule "src/host/teleop"]
 	path = src/host/teleop
 	url = https://github.com/matthewdhanley/teleop.git
-[submodule "src/bot/apriltags_ros"]
-	path = src/bot/apriltags_ros
-	url = https://github.com/cosmicog/apriltags_ros
 [submodule "src/bot/state-machine"]
 	path = src/bot/state-machine
 	url = https://github.com/matthewdhanley/state-machine.git
@@ -16,3 +13,6 @@
 [submodule "src/bot/motor_control"]
 	path = src/bot/motor_control
 	url = https://github.com/matthewdhanley/motor_control.git
+[submodule "src/bot/apriltags_ros"]
+	path = src/bot/apriltags_ros
+	url = https://github.com/matthewdhanley/apriltags_ros.git
