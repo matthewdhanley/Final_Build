@@ -14,15 +14,6 @@
     <!-- This exists for backwards compatability and should be left true for new setups -->
     <param name="projected_optics" type="bool" value="false"/>
 
-    <!-- dont use cam info -->
-    <param name="use_cam_info" type="bool" value="false"/>
-
-    <!-- focal and position points -->
-    <!-- param name="cam_fx" value="386.811552" /-->
-    <!-- param name="cam_fy" value="387.691086" /-->
-    <!-- param name="cam_px" value="216.263416" /-->
-    <!-- param name="cam_py" value="156.787065" /-->
-
     <param name="cam_position_roll"  type="double" value="0.0"/>
     <param name="cam_position_pitch" type="double" value="0.0"/>
     <param name="cam_position_yaw"   type="double" value="0.0"/>
@@ -31,12 +22,7 @@
     <param name="cam_position_y" type="double" value="0.0"/>
     <param name="cam_position_z"   type="double" value="0.0"/>
     <rosparam param="tag_descriptions">[
-      {id: 0, size: 0.171},
-      {id: 1, size: 0.163513, frame_id: a_frame},
-      {id: 2, size: 0.163513, frame_id: tag_2},
-      {id: 3, size: 0.163513},
-      {id: 4, size: 0.163513},
-      {id: 5, size: 0.163513}]
+      {id: 0, size: 0.165}]
     </rosparam>
    
   </node>
