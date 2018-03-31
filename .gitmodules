@@ -1,6 +1,3 @@
-[submodule "src/bot/motor_control"]
-	path = src/bot/motor_control
-	url = https://github.com/matthewdhanley/motor_control.git
 [submodule "src/host/teleop"]
 	path = src/host/teleop
 	url = https://github.com/matthewdhanley/teleop.git
@@ -16,3 +13,6 @@
 [submodule "src/bot/robot_actions"]
 	path = src/bot/robot_actions
 	url = https://github.com/matthewdhanley/robot_actions.git
+[submodule "src/bot/motor_control"]
+	path = src/bot/motor_control
+	url = https://github.com/matthewdhanley/motor_control.git
