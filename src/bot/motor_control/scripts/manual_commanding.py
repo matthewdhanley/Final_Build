@@ -8,7 +8,7 @@ from serial.tools import list_ports
 from geometry_msgs.msg import Twist
 from sensor_msgs.msg import Joy
 
-motorScalar=30 #change this to adjust what magnitude the serial commands are
+motorScalar=70 #change this to adjust what magnitude the serial commands are
 
 def callback(data):
 
